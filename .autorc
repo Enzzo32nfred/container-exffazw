@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Enzzo32nfred",
+  "repo": "container-exffazw",
+  "name": "Enzzo32nfred",
+  "email": "ctinha30@gmail.com",
+}
